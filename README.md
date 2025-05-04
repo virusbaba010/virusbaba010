@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cybersecurity;Python+%7C+Bash+%7C+JavaScript;Ethical+Hacker;Digital+Assistance+Provider" />
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
----
 
 ### 🧑‍💻 About Me
 
@@ -77,7 +77,9 @@
 
 > I break things (legally 😉) just to learn how they work and how to secure them again!
 
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
