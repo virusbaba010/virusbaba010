@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech**
+- 🎓 I'm currently pursuing **B.Tech (Networking and Cybersecurity)**
 - 🧠 I'm deeply passionate about **Cybersecurity**, **Linux**, and **Web Technologies**
 - 📚 Certified in:
   - ✅ Network Mastery for Ethical Hackers (Udemy)
