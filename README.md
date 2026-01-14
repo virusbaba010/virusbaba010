@@ -32,14 +32,6 @@
 </p>
 
 ---
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=virusbaba010&show_icons=true&theme=tokyonight" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=virusbaba010&theme=tokyonight&hide_border=false" width="47%"/> </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virusbaba010&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
 ### 💻 Languages and Tools:
 
 <p align="left">
